@@ -1,4 +1,4 @@
-# Passenger
+![Passenger](img/Logo.png)
 
 Repository for Passenger, application design and prototyping for Info 200 Final Project (Winter 2016-17). Includes all stages of design process from proposal to final prototype.
 
